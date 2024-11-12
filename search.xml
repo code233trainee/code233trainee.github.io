@@ -7,6 +7,44 @@
 ]]></content>
   </entry>
   <entry>
+    <title>三门悖论</title>
+    <url>/2024/11/12/%E4%B8%89%E9%97%A8%E6%82%96%E8%AE%BA/</url>
+    <content><![CDATA[<h3 id="三门悖论"><a href="#三门悖论" class="headerlink" title="三门悖论"></a>三门悖论</h3><h4 id="思考这样一个场景"><a href="#思考这样一个场景" class="headerlink" title="思考这样一个场景:"></a>思考这样一个场景:</h4><p>假设你参加了一个电视节目，主持人给你了三个关闭的门，并且告诉你在这三扇门后面有一扇门后面有着<strong>100万元的奖金</strong>，而另外两个门后面只有<strong>山羊</strong>。</p>
+<p>你选择了其中一扇门，然后主持人为你打开了另外一扇门，主持人打开的门里面是一只山羊，这个时候主持人问你:”你有一次重新选择的机会”。</p>
+<p>这个时候你应不应该换呢？</p>
+<h3 id="答案是换"><a href="#答案是换" class="headerlink" title="答案是换"></a>答案是<strong>换</strong></h3><p>为什么呢？</p>
+<p>在主持人没有为你打开门的时候你有<strong>三分之一</strong>的概率选择正确，但是当主持人为你排除一个错误选项后，这个时候你选择换门，那么你获奖的概率变成了<strong>三分之二</strong>。</p>
+<p>这是为什么呢？</p>
+<hr>
+<p>这就需要提到<strong>基本事件</strong>的概念了</p>
+<p>当你掷色子的时候掷出<em>1</em>和掷出<em>不是1</em>看似只有两种情况<br>但是实际上掷出<em>不是1</em>的基本有5种，而掷出1只有一种基本事件</p>
+<hr>
+<p>让我们回到电视节目</p>
+<p>当我们第一次选择的时候，获得大奖和不获得大奖的基本事件分别是一种和两种</p>
+<p>所以无论我们如何选择，都只有<strong>三分之一</strong>的概率能够选择正确</p>
+<p>但是当主持人为你排除一个错误选项后，在你本来的选择的基础上，我们的基础事件会<em>发生变化</em></p>
+<p>当你第一次选择的时候就选到了大奖，这个时候你不换，你就会获得大奖</p>
+<p>当你第一次选择的时候没有选到大奖，这个时候你换，你就会获得大奖</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/%E4%B8%89%E9%97%A8%E6%82%96%E8%AE%BA/%E4%B8%89%E4%B8%AA%E9%97%A8.png"
+                      alt="这是图片" title="。。。"
+                ></p>
+<p>你换门获奖的概率将变为<strong>三分之二</strong></p>
+<p>不换门，你获奖的概率还将是<strong>三分之一</strong></p>
+<hr>
+<p>更直观的</p>
+<p>假如给你100扇门，你选择了其中一扇门，主持人给你打开了98扇背后藏着山羊的门</p>
+<p>现在再次给你一次换门的机会，你换还是不换？</p>
+<p>现在，如果不换门你获奖的概率还只是<strong>一百分之一</strong></p>
+<p>但是如果你换，你获奖的概率就是<strong>一百分之九十九</strong></p>
+]]></content>
+      <tags>
+        <tag>悖论</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>常用命令</title>
     <url>/2024/11/11/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<pre><code class="hljs bash">hexo new <span class="hljs-string">&quot;name&quot;</span>       <span class="hljs-comment"># 新建文章</span></code></pre>
