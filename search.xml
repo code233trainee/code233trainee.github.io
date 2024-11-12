@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>常用命令</title>
+    <url>/2024/11/11/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<pre><code class="highlight bash">hexo new <span class="string">&quot;name&quot;</span>       <span class="comment"># 新建文章</span></code></pre>
+<pre><code class="highlight bash">hexo new page <span class="string">&quot;name&quot;</span>  <span class="comment"># 新建页面</span></code></pre>
+<pre><code class="highlight bash">hexo g                <span class="comment"># 生成页面</span>
+hexo d                <span class="comment"># 部署</span>
+hexo g -d             <span class="comment"># 生成页面并部署</span>
+hexo s                <span class="comment"># 本地预览</span>
+hexo clean            <span class="comment"># 清除缓存和已生成的静态文件</span>
+hexo <span class="built_in">help</span>             <span class="comment"># 帮助</span></code></pre>
+<h3 id="这又是一个纯真的视频"><a href="#这又是一个纯真的视频" class="headerlink" title="这又是一个纯真的视频"></a>这又是一个纯真的视频</h3><p>点击<a href="https://www.bilibili.com/video/BV1tJ4m1T7QL/?spm_id_from=333.999.0.0&vd_source=8f00b89033d4e55970ad28294ed2876a">这里</a></p>
+<h3 id="如果鸿运的代价是你，那鸿运还有什么意义"><a href="#如果鸿运的代价是你，那鸿运还有什么意义" class="headerlink" title="如果鸿运的代价是你，那鸿运还有什么意义"></a>如果鸿运的代价是你，那鸿运还有什么意义</h3>]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/11/11/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="highlight bash">$ hexo new <span class="string">&quot;My New Post&quot;</span></code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="highlight bash">$ hexo server</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="highlight bash">$ hexo generate</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="highlight bash">$ hexo deploy</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>第一条</title>
+    <url>/2024/11/11/My-New-Post/</url>
+    <content><![CDATA[<p>我的第一条博客</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>这个到底怎么用啊</title>
+    <url>/2024/11/11/%E8%BF%99%E4%B8%AA%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E7%94%A8%E5%95%8A/</url>
+    <content><![CDATA[<h3 id="这是什么，标题吗？"><a href="#这是什么，标题吗？" class="headerlink" title="这是什么，标题吗？"></a>这是什么，标题吗？</h3><pre><code class="highlight bash">$ what this</code></pre>
+<h3 id="第二个小标题"><a href="#第二个小标题" class="headerlink" title="第二个小标题"></a>第二个小标题</h3><p>如果直接输入内容呢</p>
+<h3 id="第三个"><a href="#第三个" class="headerlink" title="第三个"></a>第三个</h3><h3 id="这是一个纯真的视频链接"><a href="#这是一个纯真的视频链接" class="headerlink" title="这是一个纯真的视频链接"></a>这是一个纯真的视频链接</h3><p>点击<a href="https://www.bilibili.com/video/BV1Y7SWYpERP/?spm_id_from=333.999.0.0&vd_source=8f00b89033d4e55970ad28294ed2876a">这里</a></p>
+<h3 id="输入代码"><a href="#输入代码" class="headerlink" title="输入代码"></a>输入代码</h3><pre><code class="highlight bash">$ hello world</code></pre>]]></content>
+  </entry>
+</search>
